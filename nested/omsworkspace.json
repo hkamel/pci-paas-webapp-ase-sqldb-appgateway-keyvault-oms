@@ -15,7 +15,7 @@
             "PerNode",
             "PerGB2018"
       ],
-      "defaultValue": "PerGB2018",
+      "defaultValue": "standalone",
         "metadata": {
           "description": "UPDATED TO APRIL 2018 PRICING--Specifies the service tier of the workspace: Standalone, PerNode, Per-GB"
         }
